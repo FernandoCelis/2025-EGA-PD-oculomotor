@@ -1,0 +1,10 @@
+# Install PyTorch separately from https://pytorch.org (select your CUDA version)
+# then install the rest:
+#   pip install -r requirements.txt
+
+numpy
+scikit-learn
+torchvision
+tensorboard
+opencv-python
+einops
